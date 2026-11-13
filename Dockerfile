@@ -6,22 +6,24 @@ LABEL maintainer="Deepfake"
 
 # Install dependencies outside of the base image
 RUN DEBIAN_FRONTEND=noninteractive apt update && \
-	apt install -y --no-install-recommends git automake  \
-    pkg-config  \
-    build-essential  \
-    ca-certificates  \
-    libfreetype6-dev  \
-    libtool  \
-    pkg-config  \
-    python-dev  \
+    apt install -y --no-install-recommends git automake \
+    pkg-config \
+    build-essential \
+    ca-certificates \
+    libfreetype6-dev \
+    libtool \
+    pkg-config \
+    python-dev \
     python-distutils-extra \
-    python3.7-dev  \
+    python3.7-dev \
     python3-pip \
     cmake \
-	&& \
+    libgl1 \
+    libglib2.0-0 \
+    && \
     rm -rf /var/lib/apt/lists/* \
     && \
-    update-alternatives --install /usr/bin/python python /usr/bin/python3.7 0  \
+    update-alternatives --install /usr/bin/python python /usr/bin/python3.7 0 \
     && \
     python3.7 -m pip install pip --upgrade 
 
