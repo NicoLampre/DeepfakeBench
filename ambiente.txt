@@ -1,0 +1,9 @@
+== HOST ==
+PRETTY_NAME="Fedora Linux 45 (Workstation Edition)"
+7.3.3-300.fc45.x86_64
+NVIDIA GeForce RTX 2070 SUPER, 620.70.06
+Docker version 29.9.2, build 2.fc45
+== CONTAINER ==
+PRETTY_NAME="Ubuntu 18.04.6 LTS"
+Python 3.7.13
+torch 1.12.0 cuda 11.3
