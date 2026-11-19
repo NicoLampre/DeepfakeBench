@@ -34,6 +34,7 @@ RUN pip install --no-cache-dir certifi setuptools==59.5.0 && \
     pip install --no-cache-dir \
     dlib==19.24.0 \
     imageio==2.9.0 \
+    imageio-ffmpeg \
     imgaug==0.4.0 \
     scipy==1.7.3 \
     seaborn==0.11.2 \
@@ -53,7 +54,12 @@ RUN pip install --no-cache-dir certifi setuptools==59.5.0 && \
     tokenizers==0.12.1 \
     filterpy \
     simplejson \
-    kornia \
+    kornia==0.6.12 \
+    albumentations==1.3.1 \
+    lmdb==1.4.1 \
+    fvcore \
+    iopath \
+    pandas==1.3.5 \
     git+https://github.com/openai/CLIP.git
 
 ENV MODEL_NAME=deepfakebench

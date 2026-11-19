@@ -1,0 +1,103 @@
+2026-11-19 17:40:06,750 - ERROR - Sub Dataset path does not exist: ../datasets/Celeb-DF-v2-original/Celeb-DF-v2/YouTube-real
+2026-11-19 17:40:38,681 - INFO - 4 videos found in ../datasets/Celeb-DF-v2-original/Celeb-DF-v2/Celeb-real
+2026-11-19 17:40:48,561 - INFO - Current time: 2026-11-19 17:40:48
+2026-11-19 17:40:48,722 - INFO - Current time: 2026-11-19 17:40:48
+2026-11-19 17:40:48,752 - INFO - Current time: 2026-11-19 17:40:48
+2026-11-19 17:40:48,775 - INFO - Current time: 2026-11-19 17:40:48
+2026-11-19 17:40:48,775 - INFO - Total time taken: 0.17 minutes
+2026-11-19 17:40:48,776 - INFO - 8 videos found in ../datasets/Celeb-DF-v2-original/Celeb-DF-v2/Celeb-synthesis
+2026-11-19 17:40:54,979 - WARNING - No faces in frame 117 of ../datasets/Celeb-DF-v2-original/Celeb-DF-v2/Celeb-synthesis/id0_id1_0009.mp4
+2026-11-19 17:40:55,347 - WARNING - No faces in frame 133 of ../datasets/Celeb-DF-v2-original/Celeb-DF-v2/Celeb-synthesis/id0_id1_0009.mp4
+2026-11-19 17:41:01,880 - INFO - Current time: 2026-11-19 17:41:01
+2026-11-19 17:41:02,026 - INFO - Current time: 2026-11-19 17:41:02
+2026-11-19 17:41:02,250 - INFO - Current time: 2026-11-19 17:41:02
+2026-11-19 17:41:02,740 - INFO - Current time: 2026-11-19 17:41:02
+2026-11-19 17:41:02,895 - INFO - Current time: 2026-11-19 17:41:02
+2026-11-19 17:41:03,047 - INFO - Current time: 2026-11-19 17:41:03
+2026-11-19 17:41:03,078 - INFO - Current time: 2026-11-19 17:41:03
+2026-11-19 17:41:03,719 - INFO - Current time: 2026-11-19 17:41:03
+2026-11-19 17:41:03,719 - INFO - Total time taken: 0.25 minutes
+2026-11-19 17:41:03,720 - INFO - 4 videos found in ../datasets/Celeb-DF-v2-original/Celeb-DF-v2/YouTube-real
+2026-11-19 17:41:13,087 - INFO - Current time: 2026-11-19 17:41:13
+2026-11-19 17:41:13,177 - INFO - Current time: 2026-11-19 17:41:13
+2026-11-19 17:41:13,198 - INFO - Current time: 2026-11-19 17:41:13
+2026-11-19 17:41:13,311 - INFO - Current time: 2026-11-19 17:41:13
+2026-11-19 17:41:13,311 - INFO - Total time taken: 0.16 minutes
+2026-11-19 17:41:13,312 - INFO - Face cropping complete!
+2026-11-19 19:41:05,865 - INFO - 4 videos found in /app/datasets/Celeb-DF-v2-original/Celeb-DF-v2/Celeb-real
+2026-11-19 19:41:15,970 - INFO - Current time: 2026-11-19 19:41:15
+2026-11-19 19:41:15,978 - INFO - Current time: 2026-11-19 19:41:15
+2026-11-19 19:41:15,985 - INFO - Current time: 2026-11-19 19:41:15
+2026-11-19 19:41:16,069 - INFO - Current time: 2026-11-19 19:41:16
+2026-11-19 19:41:16,069 - INFO - Total time taken: 0.17 minutes
+2026-11-19 19:41:16,076 - INFO - 8 videos found in /app/datasets/Celeb-DF-v2-original/Celeb-DF-v2/Celeb-synthesis
+2026-11-19 19:41:21,960 - WARNING - No faces in frame 117 of /app/datasets/Celeb-DF-v2-original/Celeb-DF-v2/Celeb-synthesis/videos/id0_id1_0009.mp4
+2026-11-19 19:41:22,338 - WARNING - No faces in frame 133 of /app/datasets/Celeb-DF-v2-original/Celeb-DF-v2/Celeb-synthesis/videos/id0_id1_0009.mp4
+2026-11-19 19:41:29,715 - INFO - Current time: 2026-11-19 19:41:29
+2026-11-19 19:41:29,907 - INFO - Current time: 2026-11-19 19:41:29
+2026-11-19 19:41:30,120 - INFO - Current time: 2026-11-19 19:41:30
+2026-11-19 19:41:30,256 - INFO - Current time: 2026-11-19 19:41:30
+2026-11-19 19:41:30,286 - INFO - Current time: 2026-11-19 19:41:30
+2026-11-19 19:41:30,343 - INFO - Current time: 2026-11-19 19:41:30
+2026-11-19 19:41:30,567 - INFO - Current time: 2026-11-19 19:41:30
+2026-11-19 19:41:30,581 - INFO - Current time: 2026-11-19 19:41:30
+2026-11-19 19:41:30,582 - INFO - Total time taken: 0.24 minutes
+2026-11-19 19:41:30,586 - INFO - 4 videos found in /app/datasets/Celeb-DF-v2-original/Celeb-DF-v2/YouTube-real
+2026-11-19 19:41:40,004 - INFO - Current time: 2026-11-19 19:41:40
+2026-11-19 19:41:40,022 - INFO - Current time: 2026-11-19 19:41:40
+2026-11-19 19:41:40,040 - INFO - Current time: 2026-11-19 19:41:40
+2026-11-19 19:41:40,114 - INFO - Current time: 2026-11-19 19:41:40
+2026-11-19 19:41:40,114 - INFO - Total time taken: 0.16 minutes
+2026-11-19 19:41:40,115 - INFO - Face cropping complete!
+2026-11-19 19:52:59,607 - INFO - 4 videos found in /app/datasets/Celeb-DF-v2-original/Celeb-DF-v2/Celeb-real
+2026-11-19 19:53:09,578 - INFO - Current time: 2026-11-19 19:53:09
+2026-11-19 19:53:09,583 - INFO - Current time: 2026-11-19 19:53:09
+2026-11-19 19:53:09,630 - INFO - Current time: 2026-11-19 19:53:09
+2026-11-19 19:53:09,673 - INFO - Current time: 2026-11-19 19:53:09
+2026-11-19 19:53:09,673 - INFO - Total time taken: 0.17 minutes
+2026-11-19 19:53:09,678 - INFO - 8 videos found in /app/datasets/Celeb-DF-v2-original/Celeb-DF-v2/Celeb-synthesis
+2026-11-19 19:53:15,633 - WARNING - No faces in frame 117 of /app/datasets/Celeb-DF-v2-original/Celeb-DF-v2/Celeb-synthesis/videos/id0_id1_0009.mp4
+2026-11-19 19:53:15,999 - WARNING - No faces in frame 133 of /app/datasets/Celeb-DF-v2-original/Celeb-DF-v2/Celeb-synthesis/videos/id0_id1_0009.mp4
+2026-11-19 19:53:23,260 - INFO - Current time: 2026-11-19 19:53:23
+2026-11-19 19:53:23,388 - INFO - Current time: 2026-11-19 19:53:23
+2026-11-19 19:53:23,479 - INFO - Current time: 2026-11-19 19:53:23
+2026-11-19 19:53:23,677 - INFO - Current time: 2026-11-19 19:53:23
+2026-11-19 19:53:23,740 - INFO - Current time: 2026-11-19 19:53:23
+2026-11-19 19:53:23,784 - INFO - Current time: 2026-11-19 19:53:23
+2026-11-19 19:53:23,868 - INFO - Current time: 2026-11-19 19:53:23
+2026-11-19 19:53:24,208 - INFO - Current time: 2026-11-19 19:53:24
+2026-11-19 19:53:24,208 - INFO - Total time taken: 0.24 minutes
+2026-11-19 19:53:24,210 - INFO - 4 videos found in /app/datasets/Celeb-DF-v2-original/Celeb-DF-v2/YouTube-real
+2026-11-19 19:53:33,453 - INFO - Current time: 2026-11-19 19:53:33
+2026-11-19 19:53:33,456 - INFO - Current time: 2026-11-19 19:53:33
+2026-11-19 19:53:33,560 - INFO - Current time: 2026-11-19 19:53:33
+2026-11-19 19:53:33,576 - INFO - Current time: 2026-11-19 19:53:33
+2026-11-19 19:53:33,576 - INFO - Total time taken: 0.16 minutes
+2026-11-19 19:53:33,577 - INFO - Face cropping complete!
+2026-11-19 20:02:19,966 - ERROR - Dataset path does not exist: datasets/Celeb-DF-v2-original/Celeb-DF-v2
+2026-11-19 20:02:58,118 - ERROR - Dataset path does not exist: datasets/Celeb-DF-v2-original/Celeb-DF-v2
+2026-11-19 20:03:02,701 - INFO - 4 videos found in ../datasets/Celeb-DF-v2-original/Celeb-DF-v2/Celeb-real
+2026-11-19 20:03:12,762 - INFO - Current time: 2026-11-19 20:03:12
+2026-11-19 20:03:12,887 - INFO - Current time: 2026-11-19 20:03:12
+2026-11-19 20:03:12,923 - INFO - Current time: 2026-11-19 20:03:12
+2026-11-19 20:03:13,089 - INFO - Current time: 2026-11-19 20:03:13
+2026-11-19 20:03:13,090 - INFO - Total time taken: 0.17 minutes
+2026-11-19 20:03:13,095 - INFO - 8 videos found in ../datasets/Celeb-DF-v2-original/Celeb-DF-v2/Celeb-synthesis
+2026-11-19 20:03:19,333 - WARNING - No faces in frame 117 of ../datasets/Celeb-DF-v2-original/Celeb-DF-v2/Celeb-synthesis/videos/id0_id1_0009.mp4
+2026-11-19 20:03:19,623 - WARNING - No faces in frame 133 of ../datasets/Celeb-DF-v2-original/Celeb-DF-v2/Celeb-synthesis/videos/id0_id1_0009.mp4
+2026-11-19 20:03:26,738 - INFO - Current time: 2026-11-19 20:03:26
+2026-11-19 20:03:26,981 - INFO - Current time: 2026-11-19 20:03:26
+2026-11-19 20:03:27,118 - INFO - Current time: 2026-11-19 20:03:27
+2026-11-19 20:03:27,199 - INFO - Current time: 2026-11-19 20:03:27
+2026-11-19 20:03:27,265 - INFO - Current time: 2026-11-19 20:03:27
+2026-11-19 20:03:27,283 - INFO - Current time: 2026-11-19 20:03:27
+2026-11-19 20:03:27,536 - INFO - Current time: 2026-11-19 20:03:27
+2026-11-19 20:03:27,759 - INFO - Current time: 2026-11-19 20:03:27
+2026-11-19 20:03:27,759 - INFO - Total time taken: 0.24 minutes
+2026-11-19 20:03:27,764 - INFO - 4 videos found in ../datasets/Celeb-DF-v2-original/Celeb-DF-v2/YouTube-real
+2026-11-19 20:03:37,482 - INFO - Current time: 2026-11-19 20:03:37
+2026-11-19 20:03:37,564 - INFO - Current time: 2026-11-19 20:03:37
+2026-11-19 20:03:37,564 - INFO - Current time: 2026-11-19 20:03:37
+2026-11-19 20:03:37,564 - INFO - Current time: 2026-11-19 20:03:37
+2026-11-19 20:03:37,564 - INFO - Total time taken: 0.16 minutes
+2026-11-19 20:03:37,564 - INFO - Face cropping complete!
