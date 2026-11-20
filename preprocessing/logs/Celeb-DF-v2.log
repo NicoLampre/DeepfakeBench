@@ -101,3 +101,28 @@
 2026-11-19 20:03:37,564 - INFO - Current time: 2026-11-19 20:03:37
 2026-11-19 20:03:37,564 - INFO - Total time taken: 0.16 minutes
 2026-11-19 20:03:37,564 - INFO - Face cropping complete!
+2026-11-20 15:04:31,422 - INFO - 4 videos found in ../datasets/Celeb-DF-v2/Celeb-real
+2026-11-20 15:04:41,296 - INFO - Current time: 2026-11-20 15:04:41
+2026-11-20 15:04:41,352 - INFO - Current time: 2026-11-20 15:04:41
+2026-11-20 15:04:41,423 - INFO - Current time: 2026-11-20 15:04:41
+2026-11-20 15:04:41,445 - INFO - Current time: 2026-11-20 15:04:41
+2026-11-20 15:04:41,445 - INFO - Total time taken: 0.17 minutes
+2026-11-20 15:04:41,447 - INFO - 8 videos found in ../datasets/Celeb-DF-v2/Celeb-synthesis
+2026-11-20 15:04:47,331 - WARNING - No faces in frame 117 of ../datasets/Celeb-DF-v2/Celeb-synthesis/videos/id0_id1_0009.mp4
+2026-11-20 15:04:47,602 - WARNING - No faces in frame 133 of ../datasets/Celeb-DF-v2/Celeb-synthesis/videos/id0_id1_0009.mp4
+2026-11-20 15:04:54,290 - INFO - Current time: 2026-11-20 15:04:54
+2026-11-20 15:04:54,907 - INFO - Current time: 2026-11-20 15:04:54
+2026-11-20 15:04:55,222 - INFO - Current time: 2026-11-20 15:04:55
+2026-11-20 15:04:55,248 - INFO - Current time: 2026-11-20 15:04:55
+2026-11-20 15:04:55,366 - INFO - Current time: 2026-11-20 15:04:55
+2026-11-20 15:04:55,511 - INFO - Current time: 2026-11-20 15:04:55
+2026-11-20 15:04:55,574 - INFO - Current time: 2026-11-20 15:04:55
+2026-11-20 15:04:55,945 - INFO - Current time: 2026-11-20 15:04:55
+2026-11-20 15:04:55,946 - INFO - Total time taken: 0.24 minutes
+2026-11-20 15:04:55,947 - INFO - 4 videos found in ../datasets/Celeb-DF-v2/YouTube-real
+2026-11-20 15:05:05,267 - INFO - Current time: 2026-11-20 15:05:05
+2026-11-20 15:05:05,292 - INFO - Current time: 2026-11-20 15:05:05
+2026-11-20 15:05:05,323 - INFO - Current time: 2026-11-20 15:05:05
+2026-11-20 15:05:05,389 - INFO - Current time: 2026-11-20 15:05:05
+2026-11-20 15:05:05,389 - INFO - Total time taken: 0.16 minutes
+2026-11-20 15:05:05,389 - INFO - Face cropping complete!

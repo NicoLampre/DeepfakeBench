@@ -50,8 +50,8 @@ if __name__ == "__main__":
     parser.add_argument(
         "--dataset_dir",
         type=str,
-        default="../datasets/Celeb-DF-v2-original/Celeb-DF-v2",
-        help="Percorso relativo da utils/ (default: ../datasets/Celeb-DF-v2-original/Celeb-DF-v2)"
+        default="../datasets/Celeb-DF-v2",
+        help="Percorso relativo da utils/ (default: ../datasets/Celeb-DF-v2)"
     )
     args = parser.parse_args()
     generate_test_list(args.dataset_dir)
